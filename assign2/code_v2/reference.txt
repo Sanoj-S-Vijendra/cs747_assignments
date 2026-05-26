@@ -1,0 +1,7 @@
+Task 1:
+    (i) Course slides
+    (ii) How to use pulp for solving linear program was adopted from chatgpt.
+Task 2:
+
+Report:
+    (i) Chat gpt was used to rephrase the report to make it grammetically sound.

@@ -1,0 +1,7 @@
+1. Wikipedia minimax, alpha beta pruning
+2. Geeks for Geeks
+3. Class Slides
+4. github.com/ahmedfahad04/AI-Project-1-Mini-Chess
+5. github.com/patrik-ha/explainable-minichess
+6. Several youtube videos
+7. Chatgpt was used in refining report for making it grammatically sound
